@@ -97,7 +97,7 @@ exec print               --->2.x
 ```
 ### python的核心数据类型
 ```
-(1)数字（包含整形Int和浮点型Float） 字符串（String） 列表（List） 字典(Dict) 元组(Tuple) 集合(Set) 文件
+(1)数字（包含整型Int和浮点型Float） 字符串（String） 列表（List） 字典(Dict) 元组(Tuple) 集合(Set) 文件
 
 (2)其他类型 ： 类类型(object) None(Nonetype) 布尔型(Boolean)
 
