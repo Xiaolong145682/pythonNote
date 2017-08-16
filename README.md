@@ -7,7 +7,9 @@
 ### 4.掌握python中常用的字符串函数
 
 ## day03
-### if分支语句的用法
-### while循环语句的用法
-### for循环语句和range的用法
-### break,continue和pass的用法
+### 1.if分支语句的用法
+### 2.while循环语句的用法
+### 3.for循环语句和range的用法
+### 4.break,continue,return和pass的用法
+### 5.zip和map方法的使用
+
