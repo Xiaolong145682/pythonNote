@@ -1,5 +1,5 @@
 ## day01
-
+### python环境的安装（windows,linux）
 ## day02
 ### 1.掌握python中print的格式化输出
 ### 2.掌握python中input和raw_input的用法
